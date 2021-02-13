@@ -1,2 +1,2 @@
 # brickbuster.py
-BrickBuster Game
+BrickBuster Game using Python and Pygame.
